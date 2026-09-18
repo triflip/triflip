@@ -16,7 +16,20 @@ Intensive Front-End Development bootcamp focused on hands-on projects and practi
 **UPC — Universitat Politècnica de Catalunya**  
 European Digital Learning Credential: Frontend Development, awarded upon completion of the IT Academy program.
 
+---
 
+### 📚 Currently Learning
+
+**42 Barcelona**  
+C · Linux · Systems Programming
+
+---
+
+### 🛠️ Tech Stack
+
+HTML · CSS · JavaScript · TypeScript · React · Redux · Tailwind CSS · Git · GitHub · Vite · Supabase · Firebase · REST APIs
+
+---
 
 ### 🚀 Featured Projects
 
@@ -40,3 +53,7 @@ React application using the Star Wars API to explore starships, view their detai
 
 **Weather & Jokes**  
 Front-end application combining weather, sunrise and sunset data with random jokes from multiple external APIs. Built with TypeScript, Vite and CSS.---
+
+
+---
+
