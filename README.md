@@ -10,10 +10,10 @@ I enjoy building things, exploring how they work, and turning ideas into working
 ### 🎓 Education & Training
 
 
-**IT Academy Barcelona**  
+**IT Academy — Barcelona Activa**  
 Intensive Front-End Development bootcamp focused on hands-on projects and practical learning.
 
-**Universitat Politècnica de Catalunya (UPC)**  
-Microcredential: Frontend Development
+**UPC — Universitat Politècnica de Catalunya**  
+European Digital Learning Credential: Frontend Development, awarded upon completion of the IT Academy program.
 
 ---
