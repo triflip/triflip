@@ -31,23 +31,23 @@ HTML · CSS · JavaScript · TypeScript · React · Redux · Tailwind CSS · Git
 
 ### 🚀 Featured Projects
 
-**[Waz Here](https://github.com/triflip/Waz-Here)**  
+**[Waz Here](https://github.com/triflip/Waz-Here/blob/main/README.md)**  
 Personal travel diary built around an interactive globe, where saved trips are displayed through their geographic locations. Built with React, TypeScript, Supabase, React Globe GL, Leaflet and Tailwind CSS.
 
-**[ITA Wiki Monorepo](https://github.com/IT-Academy-BCN/ita-wiki-monorepo)**  
+**[ITA Wiki Monorepo](https://github.com/IT-Academy-BCN/ita-wiki-monorepo/blob/main/README.md)**  
 Collaborative wiki project developed in cross-functional Front-End and Back-End teams, following an Agile Scrum workflow with GitHub project boards, task management and feature-based development.
 
-**[City Events Tracker](https://github.com/triflip/city-events-tracker)**  
+**[City Events Tracker](https://github.com/triflip/city-events-tracker/blob/main/README.md)**  
 Web application for exploring and managing urban events in Barcelona, with interactive map, calendar and data visualizations. Built with React and Supabase.
 
-**[Budgets](https://github.com/triflip/budgets-calculator)**  
+**[Budgets](https://github.com/triflip/budgets-calculator/blob/main/README.md)**  
 Web application for creating and managing digital budgets, with client data, service selection, automatic calculations and budget search and sorting. Built with React, TypeScript and Tailwind CSS.
 
-**[E-commerce](https://github.com/triflip/e-commerce)**  
+**[E-commerce](https://github.com/triflip/e-commerce/blob/main/README.md)**  
 E-commerce web application focused on product purchasing, shopping cart management and promotion handling. Built with JavaScript, HTML and CSS.
 
-**[Star Wars](https://github.com/triflip/star-wars)**  
+**[Star Wars](https://github.com/triflip/star-wars/blob/main/README.md)**  
 React application for exploring Star Wars starships and managing user authentication. Built with React, Redux Toolkit and Firebase.
 
-**[Weather & Jokes](https://github.com/triflip/S4.-API)**  
+**[Weather & Jokes](https://github.com/triflip/S4.-API/blob/main/README.md)**  
 Front-end application combining weather, sunrise and sunset data with random jokes from multiple external APIs. Built with TypeScript, Vite and CSS.
